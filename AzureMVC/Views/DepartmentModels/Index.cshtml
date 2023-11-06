@@ -1,0 +1,53 @@
+﻿@model IEnumerable<PhamNgocDung.Models.DepartmentModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.departmentName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.departmentCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.departmentLocation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.departmentNumbPersonals)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.departmentName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.departmentCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.departmentLocation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.departmentNumbPersonals)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.departmentId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.departmentId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.departmentId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

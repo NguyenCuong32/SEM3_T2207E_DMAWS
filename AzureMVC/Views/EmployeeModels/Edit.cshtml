@@ -1,0 +1,64 @@
+﻿@model PhamNgocDung.Models.EmployeeModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>EmployeeModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="employeeId" />
+            <div class="form-group">
+                <label asp-for="departmentId" class="control-label"></label>
+                <select asp-for="departmentId" class="form-control" asp-items="ViewBag.departmentId"></select>
+                <span asp-validation-for="departmentId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="employeeName" class="control-label"></label>
+                <input asp-for="employeeName" class="form-control" />
+                <span asp-validation-for="employeeName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="employeeCode" class="control-label"></label>
+                <input asp-for="employeeCode" class="form-control" />
+                <span asp-validation-for="employeeCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="employeeDepartment" class="control-label"></label>
+                <input asp-for="employeeDepartment" class="form-control" />
+                <span asp-validation-for="employeeDepartment" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="employeeRank" class="control-label"></label>
+                <input asp-for="employeeRank" class="form-control" />
+                <span asp-validation-for="employeeRank" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="employeeEmail" class="control-label"></label>
+                <input asp-for="employeeEmail" class="form-control" />
+                <span asp-validation-for="employeeEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="employeePassword" class="control-label"></label>
+                <input asp-for="employeePassword" class="form-control" />
+                <span asp-validation-for="employeePassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
