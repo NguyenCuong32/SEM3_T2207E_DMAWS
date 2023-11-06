@@ -1,0 +1,174 @@
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+D:\T2207E\New folder\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+D:\T2207E\Newfolder\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
