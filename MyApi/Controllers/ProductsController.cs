@@ -35,11 +35,10 @@ public class ProductsController : Controller
     public async Task<IActionResult> GetBookById(int id)
     {
         var book = await _bookRepository.GetBookAsync(id);
-        return book == null ? NotFound() : Ok();
+        return book == null ? NotFound() : Ok(book);
     }
 
     [HttpPost]
-    [Authorize]
     public async Task<IActionResult> AddNewBook(BookModel model)
     {
         try
@@ -56,7 +55,6 @@ public class ProductsController : Controller
     }
 
     [HttpPut]
-    [Authorize]
     public async Task<IActionResult> UpdateBook(int id, BookModel model)
     {
         await _bookRepository.UpdateBookAsync(id, model);
@@ -65,7 +63,6 @@ public class ProductsController : Controller
     }
 
     [HttpDelete("{id}")]
-    [Authorize]
     public async Task<IActionResult> DeleteBook(int id)
     {
         try
