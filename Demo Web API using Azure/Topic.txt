@@ -1,0 +1,11 @@
+Viết 1 chương trình sử dụng Web API có các chức năng sau:
+
+1. Kết nối database (SQL Server - Cloud)
+
+2. Thêm 1 bản ghi vào bằng giao thức POST
+
+3. Lấy các bản ghi bằng giao thức GET
+
+4. Triển khai lên azure
+
+5. Trình bày theo nhóm trước lớp

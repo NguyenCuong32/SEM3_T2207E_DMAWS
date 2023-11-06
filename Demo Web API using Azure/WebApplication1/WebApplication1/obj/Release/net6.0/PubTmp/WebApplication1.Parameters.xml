@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="vuxuandu" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Documents\\FPT\ Aptech\\T2207E_SEM3\\T2207E3_Developing\ Microsoft\ Azure\ and\ Web\ Services\\Demo\ Web\ API\ using\ Azure\\WebApplication1\\WebApplication1\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
