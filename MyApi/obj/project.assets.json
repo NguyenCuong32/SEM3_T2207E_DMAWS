@@ -12262,24 +12262,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\maxxm\\.nuget\\packages\\": {}
+    "/Users/nghiaha/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\RiderProject\\MyApi\\MyApi\\MyApi.csproj",
+      "projectUniqueName": "/Users/nghiaha/Library/Mobile Documents/com~apple~CloudDocs/Documents/Rider/net-base/MyApi/MyApi.csproj",
       "projectName": "MyApi",
-      "projectPath": "E:\\RiderProject\\MyApi\\MyApi\\MyApi.csproj",
-      "packagesPath": "C:\\Users\\maxxm\\.nuget\\packages\\",
-      "outputPath": "E:\\RiderProject\\MyApi\\MyApi\\obj\\",
+      "projectPath": "/Users/nghiaha/Library/Mobile Documents/com~apple~CloudDocs/Documents/Rider/net-base/MyApi/MyApi.csproj",
+      "packagesPath": "/Users/nghiaha/.nuget/packages/",
+      "outputPath": "/Users/nghiaha/Library/Mobile Documents/com~apple~CloudDocs/Documents/Rider/net-base/MyApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\maxxm\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/nghiaha/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "/usr/local/share/dotnet/sdk/7.0.307/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -12366,7 +12368,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
       }
     }
   }
