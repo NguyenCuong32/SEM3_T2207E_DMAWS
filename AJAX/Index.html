@@ -1,0 +1,20 @@
+<button id="getDataButton">Lấy dữ liệu từ API</button>
+<div id="result"></div>
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    document.getElementById("getDataButton").addEventListener("click", function () {
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "https://webapikhoi123.azurewebsites.net/api/UserModels/GetUsers", true);
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                var data = JSON.parse(xhr.responseText);
+                document.getElementById("result").innerText = JSON.stringify(data);
+            } else if (xhr.readyState === 4) {
+                console.error("Lỗi khi gửi yêu cầu đến API.");
+            }
+        };
+        xhr.send();
+    });
+</script>

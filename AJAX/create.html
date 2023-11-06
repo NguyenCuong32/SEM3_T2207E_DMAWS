@@ -1,0 +1,41 @@
+
+<form id="userForm">
+    <input type="text" id="username2" name="username" placeholder="Username">
+    <input type="text" id="email2" name="email" placeholder="Email">
+    <button type="submit">Lưu</button>
+</form>
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#userForm").submit(function (e) {
+            e.preventDefault();
+
+            var username = $("#username2").val();
+            var email = $("#email2").val();
+
+            var data = {
+                id: 0,
+                name: username,
+                email: email
+            };
+            console.log(data);
+            $.ajax({
+                url: 'https://webapikhoi123.azurewebsites.net/api/UserModels/PostUserModel',
+                type: 'POST',
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(data),
+                success: function (response) {
+                    console.log(response);
+                },
+                success: function (response) {
+                    alert("Dữ liệu đã được lưu.");
+                },
+                error: function () {
+                    alert('Lỗi khi gửi yêu cầu đến API.');
+                }
+            });
+        });
+    });
+</script>
