@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{74E9B671-681C-4741-B6C7-60ACE65CF39F}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DemoAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoAPI/Controllers/UserController.cs">
+    <Files>
+      <File FileName="DemoAPI/Models/UserModel.cs" />
+      <File FileName="DemoAPI/Program.cs" />
+      <File FileName="DemoAPI/appsettings.json" />
+      <File FileName="DemoAPI/UserDbContext.cs" />
+      <File FileName="DemoAPI/Migrations/UserDbContextModelSnapshot.cs" />
+      <File FileName="DemoAPI/Migrations/20231031083102_InitialCreate4.cs" />
+      <File FileName="DemoAPI/Controllers/UserController.cs" Line="98" Column="1" />
+      <File FileName="DemoAPI/Dockerfile" />
+      <File FileName="../DemoFunction/DemoFunction.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DemoAPI" expanded="True">
+            <Node name="DemoAPI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="UserController.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="DemoFunction" expanded="True" />
+            <Node name="docker-compose" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

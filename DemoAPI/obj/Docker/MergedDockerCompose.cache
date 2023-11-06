@@ -1,0 +1,16 @@
+services:
+  demoapi:
+    build:
+      context: /Users/tranthimaihien/Documents/fpt/SEM3/Azure/DemoAPI
+      dockerfile: DemoAPI/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: demoapi
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - /Users/tranthimaihien/.aspnet/https:/root/.aspnet/https:ro
+    - /Users/tranthimaihien/.microsoft/usersecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

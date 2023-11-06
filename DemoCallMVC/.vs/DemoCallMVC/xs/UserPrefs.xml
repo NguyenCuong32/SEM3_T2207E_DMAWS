@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{27A83B84-861F-4CA9-B307-94F56E7B4CD9}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoCallMVC/UserDbContext.cs">
+    <Files>
+      <File FileName="DemoCallMVC/Models/UserModel.cs" />
+      <File FileName="DemoCallMVC/Program.cs" />
+      <File FileName="DemoCallMVC/appsettings.json" />
+      <File FileName="DemoCallMVC/UserDbContext.cs" Line="15" Column="1" />
+      <File FileName="DemoCallMVC/Views/Shared/_Layout.cshtml" Line="31" Column="15" />
+      <File FileName="DemoCallMVC/Controllers/UserController.cs" Line="1" Column="1" />
+      <File FileName="DemoCallMVC/Views/User/Index.cshtml" Line="39" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DemoCallMVC" expanded="True">
+            <Node name="DemoCallMVC" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="User" expanded="True" />
+              </Node>
+              <Node name="UserDbContext.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DemoCallMVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
