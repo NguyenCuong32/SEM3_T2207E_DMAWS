@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAt0awbKpqZkaY4TJmlJ6/pgAAAAACAAAAAAAQZgAAAAEAACAAAACyBGgU2qItOs1jy+tnuhOelPYXsdVWsfkBEsydREdDLQAAAAAOgAAAAAIAACAAAAD7jmK4pQlXVHry3R5YeNjsja+at9AnGq7/Qjtu1FVHeoAAAAA8+ohNfjIYTFKmnbYJ05iy/62/MkTvpDCfJQHT0O4S9MCy97wGD95qRfivmUgdT/vKGC4Hv/sA7rMvVzP0Ia+W76Y+88gYiyWsxeuMGNEB94WS1KHtKvW9uSETaPtCTDyTltggWJjdX+8ywvhjZ9r9TCTZpq6/McyexqGFjqVZtEAAAADwdLurv+1RzvWXRhl4A5fs/xObv7/jZo73PMsqc6mMZt91Tr9IdtZsBxCQ3qUoSAVmUsV4ID9L1E9xyTrKIQHE</EncryptedPassword>
+    <History>False|2023-11-06T14:19:13.1654269Z;True|2023-11-06T21:03:08.1731456+07:00;True|2023-11-06T20:09:13.5009392+07:00;True|2023-11-06T19:19:46.8805807+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="BTTH2Context">
+      <Value>Server=tcp:t2207e.database.windows.net,1433%3bInitial Catalog=Testuser%3bPersist Security Info=False%3bUser ID=t2207%3bPassword=Hieu2512%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
