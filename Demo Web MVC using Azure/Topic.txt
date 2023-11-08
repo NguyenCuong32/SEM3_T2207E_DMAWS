@@ -1,6 +1,0 @@
-Viết một chương trình sử dụng Web MVC với các yêu cầu sau:
-
-1.Kết nối SQL database on Cloud
-2.Thêm, sửa, xoá, lấy danh sách các bản ghi
-3.Triển khai ứng dụng lên cloud
-4.Trình bày theo nhóm trước lớp
