@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v3mFpXAXG9P790emBv6AY0JGnyt90ZxsaMmgPEZubBE=",
+  "Source": "AzureAPIDemo",
+  "BasePath": "_content/AzureAPIDemo",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

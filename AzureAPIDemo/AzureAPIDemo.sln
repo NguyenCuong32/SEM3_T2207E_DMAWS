@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureAPIDemo", "AzureAPIDemo.csproj", "{56088DBE-B0AB-4E08-BAA1-BEA47E95F2BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LSM", "..\ASM\LSM\LSM.csproj", "{B3ED10E1-9A39-43D2-AD3E-F273984A2696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56088DBE-B0AB-4E08-BAA1-BEA47E95F2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56088DBE-B0AB-4E08-BAA1-BEA47E95F2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56088DBE-B0AB-4E08-BAA1-BEA47E95F2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56088DBE-B0AB-4E08-BAA1-BEA47E95F2BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3ED10E1-9A39-43D2-AD3E-F273984A2696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3ED10E1-9A39-43D2-AD3E-F273984A2696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3ED10E1-9A39-43D2-AD3E-F273984A2696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3ED10E1-9A39-43D2-AD3E-F273984A2696}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DEC866E-0ABB-49B3-A823-CDBB5EA46B4A}
+	EndGlobalSection
+EndGlobal
